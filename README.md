@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khanyi a career transitioner from Film to Tech
+- 👋 Hi, I’m Khanyi a career switcher from Film to Tech
 - 👀 I’m interested in databases, cloud computing, problem solving - anything related to Data Engineering
 - 🌱 I’m currently learning cloud computing (AWS first)
 
