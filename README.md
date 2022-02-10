@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Khanyi a career switcher from Film to Tech
-- 👀 I’m interested in databases, cloud computing, problem solving - anything related to Data Engineering
-- 🌱 I’m currently learning cloud computing (AWS first)
+- 👋 Hi there! I am Khanyisile, a data analyst/businees intelligence analyst transitioning from a career in the film industry into the field of data analytics.
+- 👀 I’m passionate about solving businesses pain points with data
 
 <!---
 KhanyiMM0/KhanyiMM0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
