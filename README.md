@@ -1,4 +1,4 @@
-- 👋 Hi there! I am Khanyisile, a data analyst transitioning from a career in the film industry into the field of data analytics.
+- 👋 Hi there! I am Khanyisile, a junior data analyst with 1-year work experience transitioning from a career in the film industry to the data analytics field.
 - 👀 I’m passionate about solving businesses' pain points with data
 
 <!---
